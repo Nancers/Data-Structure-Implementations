@@ -1,4 +1,4 @@
-// My solutions to Linked List questions in CTCI.
+// Single linked list questions in CTCI.
 
 import java.util.*;
 
