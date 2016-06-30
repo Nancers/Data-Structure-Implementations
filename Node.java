@@ -1,4 +1,4 @@
-// Single linked list questions in CTCI.
+// Single linked list questions, functions based on questions from CTCI.
 
 import java.util.*;
 
